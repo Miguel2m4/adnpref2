@@ -80,7 +80,7 @@ function error(errorC)
 <a class="toggleMenu" href="#">Menu</a>
 <ul class="nav">
 	<li  class="test">
-		<a href="index">Inicio</a>
+		<a href="/">Inicio</a>
 	</li>
 	<li>
 		<a href="nuestra-empresa">Nosotros</a>
