@@ -133,10 +133,10 @@ while($row = mysql_fetch_array($bus, MYSQLI_ASSOC)){
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width , initial-scale=1 ,maximum-scale=1 user-scalable=no" />
-<meta name="keywords" lang="es" content="">
+<meta name="keywords" lang="es" content="Inmobiliarias en Villavicencio, casa, apartamentos, bodegas, lotes y oficinas">
 <meta name="robots" content="All">
-<meta name="description" lang="es" content="">
-<title>Inmuebles en Venta | Inmobiliaria Andapref</title>
+<meta name="description" lang="es" content="Inmobiliaria andapref,  administración de inmuebles para arriendo ventas y elaboración de avalúos.">
+<title>Inmuebles en Venta | INMOBILIARIA ANDAPREF S.A.S</title>
 <link rel="stylesheet" href="css/normalize.css" />
 <link rel="stylesheet" href="css/stylesheet.css" />
 <link rel="stylesheet" href="css/style1.css" />
