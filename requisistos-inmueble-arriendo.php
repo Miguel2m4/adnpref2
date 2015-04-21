@@ -16,7 +16,7 @@
 
 </head>
 <header>
-	<div id="top-lado1"><a href="#"><img src="images/logo.png"></a></div>
+	<div id="top-lado1"><a href="/"><img src="images/logo.png"></a></div>
 	<div id="top-lado2"><a href="#">correo@inmobiliariaandapref.com</a></div>
 </header>
 <body>
