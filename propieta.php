@@ -23,7 +23,7 @@ if (isset($_SESSION['tipousu']) && $_SESSION['tipousu']=='propietario') {
 <body>
 <header>
 	<div id="top-lado1"><a href="#"><img src="images/logo.png"></a></div>
-	<div id="top-lado2"><a href="#">correo@inmobiliariaandapref.com</a></div>
+	<div id="top-lado2"><a href="#">contacto@inmobiliariaandapref.com</a></div>
 </header>
 <nav>
 
