@@ -23,7 +23,7 @@ else
 <body>
 <header>
 	<div id="top-lado1"><a href="#"><img src="images/logo.png"></a></div>
-	<div id="top-lado2"><a href="#">correo@inmobiliariaandapref.com</a></div>
+	<div id="top-lado2"><a href="#">contacto@inmobiliariaandapref.com</a></div>
 </header>
 <nav>
 	<div class="container">
@@ -61,7 +61,7 @@ else
 <div id="foot">
 <div class="footersec">
 	<h2>Información de contacto</h2>
-	<p><strong>Email:</strong> correo@inmobiliariaandapref.com</p>
+	<p><strong>Email:</strong> contacto@inmobiliariaandapref.com</p>
 	<p><strong>Telefono:</strong> (8) 671 60 46 - 668 44 11</p>
 	<p><strong>Celular:</strong> +57 311 232 7508 - 311 207 20 22</p>
 	<p><strong>Dirección:</strong> Calle 15 No 371-53 Ofc 102 Bloque 7 Esperanza 8va. Etapa</p>
