@@ -85,8 +85,29 @@
 <section class="contenido3">
 
 	<div id="deta-lado-izq">
+	<h2>Administración</h2>
 
-		<h2>Avalúos</h2>
+				<hr class="divi1">
+				<div class="descripcion-detalle">
+				<p>Administramos su inmueble propiedad horizontal, servicio de celadores, jardineros, y encargados (as) del aseo.</p>
+				</div>
+
+	<h2>Arrendamientos</h2>
+
+				<hr class="divi1">
+				<div class="descripcion-detalle">
+				<p>Capacitación de inmuebles promoción entre empleados, fondos, cooperativas e instituciones para la selección de arrendatarios estudio de información de codeudores y Asesoría Jurídica.</p>
+				</div>
+
+	<h2>Ventas – Permutas</h2>
+
+				<hr class="divi1">
+				<div class="descripcion-detalle">
+				<p>Capacitación de bienes raíces promoción en cartelera prensa, pagina web, promotores, asesoría en los negocios.</p>
+				<p>Mercadeo de proyectos programa de ventas eficaz.</p>
+				</div>
+
+	<h2>Avalúos</h2>
 
 				<hr class="divi1">
 				<div class="descripcion-detalle">
@@ -97,6 +118,29 @@
 					<li>Rurales.</li>
 					<li>Maquinaria.</li>
 					<li>Equipo.</li>
+				</ul>
+
+				</div>
+
+	<h2>Asesoría inmobiliaria</h2>
+
+				<hr class="divi1">
+				<div class="descripcion-detalle">
+				<p>Presentación de arrendatarios, cediendo solicitud debidamente aprobado estudio de documentación de arrendatario junto con inventario y contrato de arrendamiento entre propietario y arrendatario.</p>
+				</div>
+
+	<h2>Construcciones</h2>
+				<hr class="divi1">
+				<div class="descripcion-detalle">
+
+				<ul>
+					<li>Construcción de todo tipo de obra.</li>
+					<li>Remodelaciones.</li>
+					<li>Reparaciones locativas.</li>
+					<li>Diseño de ingeniería.</li>
+					<li>Diseño arquitectónico.</li>
+					<li>Asesorías de construcción.</li>
+
 				</ul>
 
 				</div>
