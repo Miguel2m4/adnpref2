@@ -132,16 +132,13 @@
 	<h2>Construcciones</h2>
 				<hr class="divi1">
 				<div class="descripcion-detalle">
+				<p>Construcción y contratación de obras de vivienda y locales comerciales, edificios carreteras, puentes, alcantarillados entre otros.</p>
+				<p><strong>Remodelación: </strong> Remodelamos su vivienda (Edificios, locales, apartamentos).</p>
+				<p><strong>Reparaciones locativas:</strong> Cualquier arreglo relacionado con la construcción.</p>
+				<p><strong>Diseño de ingeniería:</strong> Estructurales,  eléctricos, hidroeléctricos, sanitarios, hidráulicos.</p>
+				<p><strong>Diseños arquitectónicos:</strong> Planos, maquetas etc…</p>
+				<p><strong>Asesoría en construcción:</strong>Contamos con ingenieros y arquitectos adscritos a la empresa técnicos, constructores, maestros de obras expertos en este campo.</p>
 
-				<ul>
-					<li>Construcción de todo tipo de obra.</li>
-					<li>Remodelaciones.</li>
-					<li>Reparaciones locativas.</li>
-					<li>Diseño de ingeniería.</li>
-					<li>Diseño arquitectónico.</li>
-					<li>Asesorías de construcción.</li>
-
-				</ul>
 
 				</div>
 
