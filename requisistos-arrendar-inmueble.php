@@ -92,6 +92,12 @@
 				<p><strong>ANDAPREF S.A.S.</strong> ofrece a los futuros arrendatarios la más amplia oferta de inmuebles en las mejores condiciones para el arrendamiento de vivienda; respondiendo a todas sus necesidades de  ubicación, área y distribución.  </p>
 				<p>También entendemos y conocemos las necesidades propias de comercio, por ello presentamos diversas opciones de locales, bodegas, oficinas entre otros; aptos para la instalación de su negocio y que respondan a la necesidades propias su actividad comercial.</p>
 				<p>Todo el proceso de toma en arrendamiento del inmueble elegido, está acompañado con parte de nuestro equipo de agentes inmobiliarios quienes le asesoran en:</p>
+				<ul>
+					<li>Documentación solicitada para estudio de arrendamiento.</li>
+					<li>Asesoría integral en la elaboración y legalización del contrato de arrendamiento..</li>
+					<li>Seguimiento a sus necesidades.</li>
+
+				</ul>
 				<div class="descripcion-detalle">
 				<h4>Requisitos para empleados</h4>
 				<ul>
