@@ -89,6 +89,7 @@
 		<h2>Arrendatarios</h2>
 
 				<hr class="divi1">
+				<p><strong>ANDAPREF S.A.S.</strong> ofrece a los futuros arrendatarios la más amplia oferta de inmuebles en las mejores condiciones para el arrendamiento de vivienda; respondiendo a todas sus necesidades de  ubicación, área y distribución.  </p>
 				<div class="descripcion-detalle">
 				<h4>Requisitos para empleados</h4>
 				<ul>
