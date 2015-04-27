@@ -211,8 +211,11 @@ footer
 }
 .descripcion-detalle ul li .resaltado
 {
-	background: #FFD431;
-	color: #333;
+	background: #F9E391;
+    color: #333;
+    font-size: 13px;
+    padding: 0.3em 0.5em 0.3em 0.5em;
+    border-radius: 0.3em;
 }
 .descripcion-basica span
 {
