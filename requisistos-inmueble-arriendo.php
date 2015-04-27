@@ -113,6 +113,7 @@
 				<h2>Beneficios al dejar los inmuebles en arriendo:</h2>
 				<hr class="divi1">
 				<br>
+				<img src="images/libertador.png">
 				<ul>
 				<li>Garantía en el pago del arriendo y servicios públicos mediante afianzadora o seguros</li>
 				<li>sistema de promoción eficaz: llano 7 días, pagina web, cartelera interna, información vía telefonica, redes sociales</li>
