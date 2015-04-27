@@ -209,6 +209,11 @@ footer
 	list-style: circle;
 	line-height: 23px;
 }
+.descripcion-detalle ul li .resaltado
+{
+	background: #FFD431;
+	color: #333;
+}
 .descripcion-basica span
 {
 	color: #D71E1E;

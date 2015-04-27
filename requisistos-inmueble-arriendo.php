@@ -119,6 +119,7 @@
 				<p>Disponibilidad para enseñar los inmuebles las veces que se requiera con total disposicion de horario en horas laborables.</p>
 				<li>Entrega del inmueble mediante inventario detallado para conservación optima. </li>
 				<li>Fechas específicas de pago.</li>
+				<li><span class="resaltado">ANDAPREF S.A.S CUMPLE CON EL PAGO A PROPIETARIOS EL 16 DE CADA MES PAGUE O NO EL ARRENDATARIO:</span> (aplican condiciones y restricciones)</li>
 				<li>Contamos con departamento jurídico.</li>
 				<li>Selección y calificación de arrendatarios con estudio</li>
 				<li>Asesores capacitados</li>
