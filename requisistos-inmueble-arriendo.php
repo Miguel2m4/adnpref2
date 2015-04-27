@@ -85,7 +85,9 @@
 <section class="contenido3">
 
 	<div id="deta-lado-izq">
+	<div class="descripcion-detalle">
 	<h2>CONSIGNE SU INMUEBLE</h2>
+
 				<hr class="divi1">
 				<p>Para <strong>Andapref S.A.S</strong>, es un compromiso ayudarle a ocupar su inmueble en el menor tiempo posible, generándole un ingreso justo, que responda a las expectativas y oportunidades que ofrece el mercado inmobiliario.</p>
 				<p>Todo el proceso está acompañado con un tratamiento personalizado por parte de nuestro equipo de agentes inmobiliarios quienes le asesoran en:</p>
@@ -98,7 +100,7 @@
 		<h2>Documentos que se deben solicitar al propietario al dejarnos los inmuebles  en arriendo</h2>
 
 				<hr class="divi1">
-				<div class="descripcion-detalle">
+
 				<ul>
 					<li>Fotocopia de la cedula de ciudadanía (diligenciar correctamente los nombres, evitando así escribir datos errados)</li>
 					<li>Fotocopia del recibo de impuesto predial del año en curso (no interesa que no esté cancelado).  La Secretaria de Gobierno municipal nos exige reportar los inmuebles arrendados, estipulando valor del avaluó catastral con el fin de no exceder el   precio de arrendamiento.</li>
