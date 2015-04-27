@@ -132,7 +132,7 @@
 				<li>Atender los requerimientos de las reparaciones locativas y vigilar que se efectúen oportunamente.</li>
 				<li>Recuperación del inmueble en caso de un proceso judicial.</li>
 				</ul>
-
+				<br>
 
 
 				</div>
