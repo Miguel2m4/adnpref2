@@ -1218,14 +1218,20 @@ header #top-lado1
 {
 	width: 98%;
 }
+header
+{
+	height: 109px;;
+}
 header #top-lado1 img
 {
 	padding: 11px 5px 5px 25px;
+	width: 252px;
 }
 header #top-lado2
 {
 	display: none;
 }
+
 #crear1, #crear2
 {
 	width: 95%;
