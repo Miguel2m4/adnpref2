@@ -439,6 +439,13 @@ footer
  	margin: 1.2em 0.8em 0.8em 0.8em;
   	float: right;
 }
+.recorte2
+{
+  	display: block;
+  	text-align: right;
+  	margin: -1.8em 0.8em 0.8em 0.8em;
+  	float: right;
+}
 .subir
 {
 	display: block;
