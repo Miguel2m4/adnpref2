@@ -296,6 +296,11 @@ footer
 	width: 25%;
 
 }
+.red img
+{
+	width: 22px !important;
+  	margin-top: -10px;
+}
 .footersec p
 {
 	color: #fff;
@@ -325,6 +330,27 @@ footer
 	border-radius: 0.2em;
 	float: left;
 	padding: 0.5em;
+}
+.footersec ul
+{
+	padding-top: 0.8em;
+	text-align: left;
+	margin-left: -9px;
+}
+.footersec ul li
+{
+	color: #fff;
+	padding-bottom: 1.5em;
+}
+.footersec ul li a
+{
+	color: #fff;
+
+}
+.footersec ul li a:hover
+{
+	text-decoration: underline;
+
 }
 .footersec img
 {
