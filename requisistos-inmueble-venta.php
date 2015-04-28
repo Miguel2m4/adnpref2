@@ -89,6 +89,7 @@
 		<h2>Documentos que se deben solicitar al propietario al dejarnos los inmuebles en venta</h2>
 
 				<hr class="divi1">
+				<div class="recorte"><img src="images/arriendo4.png"></div>
 				<div class="descripcion-detalle">
 				<ul>
 					<li>Fotocopia de la cedula de ciudadanía (diligenciar correctamente los nombres, evitando así escribir datos errados).</li>
@@ -103,7 +104,7 @@
 					<li>Visitas al inmueble las veces que sea necesario para los posibles clientes.</li>
 					<li>Dejar especificado el modo de muestreo; ejemplo si esta arrendada, habría que llamar primero a los arrendatario.   Si estará desocupada y la inmobiliaria poseerá las llaves.</li>
 				</ul>
-
+<br>
 				</div>
 
 
