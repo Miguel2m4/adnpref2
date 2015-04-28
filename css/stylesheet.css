@@ -432,6 +432,10 @@ footer
 {
 	display: none;
 }
+.recorte
+{
+	display: block;
+}
 .subir
 {
 	display: block;
