@@ -219,10 +219,16 @@ function error(errorC)
 <div id="foot">
 <div class="footersec">
 	<h2>Información de contacto</h2>
-	<p><strong>Email:</strong> correo@inmobiliariaandapref.com</p>
+	<p><strong>Email:</strong> contacto@inmobiliariaandapref.com</p>
 	<p><strong>Telefono:</strong> (8) 671 60 46 - 668 44 11</p>
 	<p><strong>Celular:</strong> +57 311 232 7508 - 311 207 20 22</p>
 	<p><strong>Dirección:</strong> Calle 15 No 371-53 Ofc 102 Bloque 7 Esperanza 8va. Etapa</p>
+
+	<ul>
+		<li><span class="red"><img src="images/wat.png" target="blank">+57 311 232 7508</span></li>
+		<li><span class="red"><img src="images/face.png"><a href="https://www.facebook.com/inmobiliariaconstruciones.andaprefltda" target="blank">Facebook</a></span></li>
+		<li><span class="red"><img src="images/tui.png"><a href="" target="blank">Twitter</a></li>
+	</ul>
 </div>
 
 <div class="footersec">
