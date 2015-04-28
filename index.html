@@ -10,10 +10,12 @@
 <title>INMOBILIARIA ANDAPREF S.A.S</title>
 <link rel="stylesheet" href="css/normalize.css" />
 <link rel="stylesheet" href="css/stylesheet.css" />
+<link rel="stylesheet" href="css/slider-pro.min.css"/>
 <link rel="stylesheet" href="css/style1.css" />
 <link rel="stylesheet" href="css/responsivemobilemenu.css" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/style-menu.css">
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
+
 </head>
 <body>
 <header>
@@ -81,14 +83,77 @@
 </nav>
 <section id="fondo-imagen">
 	<div id="page">
-		<ul class="cb-slideshow">
+		<!-- <ul class="cb-slideshow">
             <li><span>Image 01</span></li>
             <li><span>Image 02</span></li>
             <li><span>Image 03</span></li>
             <li><span>Image 04</span></li>
             <li><span>Image 05</span></li>
             <li><span>Image 06</span></li>
-        </ul>
+        </ul> -->
+
+    <div id="example3" class="slider-pro">
+		<div class="sp-slides">
+
+	        <div class="sp-slide">
+	        	<img class="sp-image" src="images/blank.gif"
+	        		data-src="images/fondoapto.jpg"/>
+
+				<h3 class="sp-layer sp-black sp-padding"
+					data-horizontal="100" data-vertical="350"
+					data-show-transition="left">
+					ANDAPREF S.A.S dos decadas protegiendo su patrimonio
+				</h3>
+			</div>
+
+			<div class="sp-slide">
+	        	<img class="sp-image" src="images/blank.gif"
+	        		data-src="images/fondoapto2.jpg"/>
+
+				<h3 class="sp-layer sp-black sp-padding"
+					data-horizontal="100" data-vertical="350"
+					data-show-transition="left">
+					Es el trabajo de toda la vida.. el futuro de sus hijos
+				</h3>
+			</div>
+
+			<div class="sp-slide">
+	        	<img class="sp-image" src="images/blank.gif"
+	        		data-src="images/fondoapto3.jpg"/>
+
+				<h3 class="sp-layer sp-black sp-padding"
+					data-horizontal="100" data-vertical="350"
+					data-show-transition="left">
+					Somos la unica inmobiliaria con folleto de arrendamiento y venta que es distribuido en villavicencio
+				</h3>
+			</div>
+
+			<div class="sp-slide">
+	        	<img class="sp-image" src="images/blank.gif"
+	        		data-src="images/fondoapto4.jpg"/>
+
+				<h3 class="sp-layer sp-black sp-padding"
+					data-horizontal="100" data-vertical="350"
+					data-show-transition="left">
+					Cumplimos a propietario pague o no el inquilino
+				</h3>
+			</div>
+
+			<div class="sp-slide">
+	        	<img class="sp-image" src="images/blank.gif"
+	        		data-src="images/fondoapto6.jpg"/>
+
+				<!-- <h3 class="sp-layer sp-black sp-padding"
+					data-horizontal="100" data-vertical="350"
+					data-show-transition="left">
+					Somos la unica inmobiliaria con folleto de arrendamiento y venta que es distribuido en villavicencio
+				</h3> -->
+			</div>
+
+		</div>
+
+    </div>
+
 
 		<div id="selecc">
 		<h2>¿Qué estás buscando?</h2>
@@ -130,7 +195,6 @@
 	<img src="images/seguros_bolivar.png">
 	<img src="images/libertador.png">
 
-
 </div>
 	<hr class="divi1">
 	<div id="copyright">
@@ -142,6 +206,38 @@
         </div>
 </footer>
 </body>
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script> -->
+<script src="js/jquery.sliderPro.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
+
+<script type="text/javascript">
+	$( document ).ready(function( $ ) {
+		$( '#example3' ).sliderPro({
+			width: '100%',
+			height:  615,
+			fade: true,
+			arrows: true,
+			buttons: false,
+			autoplay: true,
+			touchSwipe: false,
+			autoScaleLayers: true,
+			breakpoints: {
+		        800: {
+		            width: '100%',
+		            height:  620,
+		        },
+		        780: {
+		            width: '100%',
+		            height:  350
+		        },
+		        500: {
+		            width: '100%',
+		            height:  350
+		        }
+		    }
+		});
+	});
+</script>
+
 </html>

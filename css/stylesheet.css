@@ -661,7 +661,7 @@ footer
 }
 #fondo-imagen #selecc
 {
-	margin: 340px 0px 0px 101px;
+	margin: -200px 0px 0px 101px;
 	position: absolute;
 	z-index: 10000;
 }
@@ -1322,7 +1322,7 @@ header #top-lado2
 }
 #fondo-imagen #selecc
 {
-	margin: 140px 0px 0px 32px;
+	margin: -200px 0px 0px 32px;
 	position: absolute;
 	z-index: 10000;
 }
@@ -1350,3 +1350,16 @@ header #top-lado2
 	display: block;
 }
 }
+
+.sp-layer{
+	font-family:
+
+}
+
+@media only screen and (max-width: 800px){
+	.sp-layer{
+		display: none;
+		font-size: 18px !important;
+	}
+}
+
