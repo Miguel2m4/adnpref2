@@ -1276,13 +1276,14 @@ header #top-lado2
 	display: block;
   text-align: center;
   margin: 0.8em 0.8em 0.8em 0.8em;
-  /* float: right; */
+  float:center;
 }
 .recorte2
 {
 	display: block;
   text-align: center;
   margin: 0.2em 0.8em 0.8em 0.8em;
+  float:center;
 
 }
 #crear1, #crear2
