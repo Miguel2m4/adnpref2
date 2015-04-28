@@ -88,6 +88,7 @@
 	<h2>Administración</h2>
 
 				<hr class="divi1">
+				<div class="recorte"><img src="images/estadis.png"></div>
 				<div class="descripcion-detalle">
 				<p>Administramos su inmueble propiedad horizontal, servicio de celadores, jardineros, y encargados (as) del aseo.</p>
 				</div>
