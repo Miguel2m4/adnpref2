@@ -1352,7 +1352,7 @@ header #top-lado2
 }
 
 .sp-layer{
-	font-family:
+	font-weight: 300 !important;
 
 }
 
@@ -1360,6 +1360,7 @@ header #top-lado2
 	.sp-layer{
 		display: none;
 		font-size: 18px !important;
+
 	}
 }
 
