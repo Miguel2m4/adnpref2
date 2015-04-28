@@ -111,6 +111,7 @@
 	<h2>Avalúos</h2>
 
 				<hr class="divi1">
+				<div class="recorte"><img src="images/arriendo6.png"></div>
 				<div class="descripcion-detalle">
 				<p>Los avalúos elaborados por <strong>INMOBILIARIA ANDAPREF SAS.</strong> son realizados por el señor Vitelio Celeita quien se encuentra inscrito en la federación de longa nacional y en la superintendencia de industria y comercio en las especialidades de avalúos tenemos</p>
 
