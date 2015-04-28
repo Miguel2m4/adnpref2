@@ -89,6 +89,7 @@
 	<h2>CONSIGNE SU INMUEBLE</h2>
 
 				<hr class="divi1">
+				<div class="recorte"><img src="images/arriendo3.png"></div>
 				<p>Para <strong>Andapref S.A.S</strong>, es un compromiso ayudarle a ocupar su inmueble en el menor tiempo posible, generándole un ingreso justo, que responda a las expectativas y oportunidades que ofrece el mercado inmobiliario.</p>
 				<p>Todo el proceso está acompañado con un tratamiento personalizado por parte de nuestro equipo de agentes inmobiliarios quienes le asesoran en:</p>
 				<ul>
