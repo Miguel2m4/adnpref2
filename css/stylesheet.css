@@ -1271,7 +1271,20 @@ header #top-lado2
 {
 	display: none;
 }
-
+.recorte
+{
+	display: block;
+  text-align: center;
+  margin: -1.8em 0.8em 0.8em 0.8em;
+  /* float: right; */
+}
+.recorte2
+{
+	display: block;
+  text-align: center;
+  margin: -1.8em 0.8em 0.8em 0.8em;
+  /* float: right; */
+}
 #crear1, #crear2
 {
 	width: 95%;
