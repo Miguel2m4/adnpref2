@@ -133,6 +133,7 @@
 
 	<h2>Construcciones</h2>
 				<hr class="divi1">
+				<div class="recorte"><img src="images/arriendo7.png"></div>
 				<div class="descripcion-detalle">
 				<p>Construcción y contratación de obras de vivienda y locales comerciales, edificios carreteras, puentes, alcantarillados entre otros.</p>
 				<p><strong>Remodelación: </strong> Remodelamos su vivienda (Edificios, locales, apartamentos).</p>
