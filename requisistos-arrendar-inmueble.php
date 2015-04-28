@@ -120,6 +120,7 @@
 				</ul>
 				<hr class="divi1">
 				<h4>Requisitos para independientes</h4>
+				<div class="recorte"><img src="images/arriendo2.png"></div>
 				<ul>
 					<li>Fotocopia de la cedula de ciudadania.</li>
 					<li>Certificado de la camara y comercio.</li>
