@@ -212,7 +212,9 @@ footer
 .descripcion-detalle ul li a
 {
 	background: #FFD431;
+	border-radius: 0.3em;
 	color:333;
+	font-size: 12px;
 	padding: 0.3em;
 	border-bottom: 3px solid #C29D11;
 
