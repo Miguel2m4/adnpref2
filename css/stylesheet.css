@@ -209,6 +209,14 @@ footer
 	list-style: circle;
 	line-height: 23px;
 }
+.descripcion-detalle ul li a
+{
+	background: #FFD431;
+	color:333;
+	padding: 0.5em;
+	border-bottom: 3px solid #C29D11;
+
+}
 .descripcion-detalle ul li .resaltado
 {
 	background: #F9E391;

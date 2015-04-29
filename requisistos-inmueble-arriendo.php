@@ -104,6 +104,7 @@
 				<br>
 				<ul>
 					<li>Anexar la consignación de arriendo.</li>
+					<li><a href="images/cosignacion_arriendo_andapref.pdf"></a>Descargar Formato</li>
 					<li>Fotocopia de la cedula de ciudadanía (diligenciar correctamente los nombres, evitando así escribir datos errados)</li>
 					<li>Fotocopia del recibo de impuesto predial del año en curso (no interesa que no esté cancelado).  La Secretaria de Gobierno municipal nos exige reportar los inmuebles arrendados, estipulando valor del avaluó catastral con el fin de no exceder el   precio de arrendamiento.</li>
 					<li>Fotocopia de la escritura pública (para extraer correctamente los linderos que se detallaran en el contrato de arriendo).</li>
