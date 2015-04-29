@@ -116,7 +116,7 @@
 				<hr class="divi1">
 				<br>
 				<div class="imagendetalle">
-				<img src="images/libertador.png">
+				<img src="images/libertador.png"><img src="images/fisa.png">
 				</div>
 				<ul>
 				<li>Garantía en el pago del arriendo y servicios públicos mediante afianzadora o seguros</li>
