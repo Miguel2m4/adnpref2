@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="css/style1.css" />
 <link rel="stylesheet" href="css/responsivemobilemenu.css" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/style-menu.css">
+<link rel="stylesheet" href="css/animacion.css" />
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
 
 </head>
@@ -89,7 +90,7 @@
 	<h2>CONSIGNE SU INMUEBLE</h2>
 
 				<hr class="divi1">
-				<div class="recorte"><img src="images/arriendo3.png"></div>
+				<div class="recorte efecto"><img src="images/arriendo3.png"></div>
 				<p>Para <strong>Andapref S.A.S</strong>, es un compromiso ayudarle a ocupar su inmueble en el menor tiempo posible, generándole un ingreso justo, que responda a las expectativas y oportunidades que ofrece el mercado inmobiliario.</p>
 				<p>Todo el proceso está acompañado con un tratamiento personalizado por parte de nuestro equipo de agentes inmobiliarios quienes le asesoran en:</p>
 				<ul>
@@ -251,4 +252,10 @@
 <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
 <script type="text/javascript" src="js/script_listado.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.efecto').animate({'opacity':'1'},500).addClass('deslizar');
+	    $('.efecto').addClass('come-in');
+   	});
+</script>
 </html>

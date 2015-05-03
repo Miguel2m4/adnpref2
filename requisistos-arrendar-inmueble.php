@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="css/style1.css" />
 <link rel="stylesheet" href="css/responsivemobilemenu.css" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/style-menu.css">
+<link rel="stylesheet" href="css/animacion.css" />
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
 
 </head>
@@ -89,7 +90,7 @@
 		<h2>Arrendatarios</h2>
 
 				<hr class="divi1">
-				 <div class="recorte"><img src="images/arriendo.png"></div>
+				 <div class="recorte efecto"><img src="images/arriendo.png"></div>
 				<p><strong>ANDAPREF S.A.S.</strong> ofrece a los futuros arrendatarios la más amplia oferta de inmuebles en las mejores condiciones para el arrendamiento de vivienda; respondiendo a todas sus necesidades de  ubicación, área y distribución.  </p>
 				<p>También entendemos y conocemos las necesidades propias de comercio, por ello presentamos diversas opciones de locales, bodegas, oficinas entre otros; aptos para la instalación de su negocio y que respondan a la necesidades propias su actividad comercial.</p>
 				<p>Todo el proceso de toma en arrendamiento del inmueble elegido, está acompañado con parte de nuestro equipo de agentes inmobiliarios quienes le asesoran en:</p>
@@ -120,7 +121,7 @@
 				</ul>
 				<hr class="divi1">
 				<h4>Requisitos para independientes</h4>
-				<div class="recorte2"><img src="images/arriendo2.png"></div>
+				<div class="recorte2 efecto1"><img src="images/arriendo2.png"></div>
 				<ul>
 					<li>Fotocopia de la cedula de ciudadania.</li>
 					<li>Certificado de la camara y comercio.</li>
@@ -252,4 +253,22 @@
 <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
 <script type="text/javascript" src="js/script_listado.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('.efecto').animate({'opacity':'1'},500).addClass('deslizar');
+	    $('.efecto').addClass('come-in');
+
+   		$(window).scroll( function(){
+   			$('.efecto1').each(function(i){
+	            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+	            var bottom_of_window = $(window).scrollTop() + $(window).height();
+	            if( bottom_of_window > bottom_of_object-10){
+	                $(this).animate({'opacity':'1'},500).addClass('deslizar');
+	                $(this).addClass('come-in');
+	            }
+	        });
+   		});
+   	});
+</script>
 </html>

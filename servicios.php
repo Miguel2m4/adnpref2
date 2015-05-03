@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="css/style1.css" />
 <link rel="stylesheet" href="css/responsivemobilemenu.css" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/style-menu.css">
+<link rel="stylesheet" href="css/animacion.css" />
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
 
 </head>
@@ -88,7 +89,7 @@
 	<h2>Administración</h2>
 
 				<hr class="divi1">
-				<div class="recorte"><img src="images/estadis.png"></div>
+				<div class="recorte efecto"><img src="images/estadis.png"></div>
 				<div class="descripcion-detalle">
 				<p>Administramos su inmueble propiedad horizontal, servicio de celadores, jardineros, y encargados (as) del aseo.</p>
 				</div>
@@ -111,7 +112,7 @@
 	<h2>Avalúos</h2>
 
 				<hr class="divi1">
-				<div class="recorte"><img src="images/arriendo6.png"></div>
+				<div class="recorte efecto1"><img src="images/arriendo6.png"></div>
 				<div class="descripcion-detalle">
 				<p>Los avalúos elaborados por <strong>INMOBILIARIA ANDAPREF SAS.</strong> son realizados por el señor Vitelio Celeita quien se encuentra inscrito en la federación de longa nacional y en la superintendencia de industria y comercio en las especialidades de avalúos tenemos</p>
 
@@ -133,7 +134,7 @@
 
 	<h2>Construcciones</h2>
 				<hr class="divi1">
-				<div class="recorte"><img src="images/arriendo7.png"></div>
+				<div class="recorte efecto1"><img src="images/arriendo7.png"></div>
 				<div class="descripcion-detalle">
 				<p>Construcción y contratación de obras de vivienda y locales comerciales, edificios carreteras, puentes, alcantarillados entre otros.</p>
 				<p><strong>Remodelación: </strong> Remodelamos su vivienda (Edificios, locales, apartamentos).</p>
@@ -257,4 +258,22 @@
 <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
 <script type="text/javascript" src="js/script_listado.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('.efecto').animate({'opacity':'1'},500).addClass('deslizar');
+	    $('.efecto').addClass('come-in');
+
+   		$(window).scroll( function(){
+   			$('.efecto1').each(function(i){
+	            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+	            var bottom_of_window = $(window).scrollTop() + $(window).height();
+	            if( bottom_of_window > bottom_of_object-10){
+	                $(this).animate({'opacity':'1'},500).addClass('deslizar');
+	                $(this).addClass('come-in');
+	            }
+	        });
+   		});
+   	});
+</script>
 </html>

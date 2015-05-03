@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="css/style1.css" />
 <link rel="stylesheet" href="css/responsivemobilemenu.css" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/style-menu.css">
+<link rel="stylesheet" href="css/animacion.css" />
 <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
 
 </head>
@@ -89,7 +90,7 @@
 		<h2>Documentos que se deben solicitar al propietario al dejarnos los inmuebles en venta</h2>
 
 				<hr class="divi1">
-				<div class="recorte"><img src="images/arriendo4.png"></div>
+				<div class="recorte efecto"><img src="images/arriendo4.png"></div>
 				<div class="descripcion-detalle">
 				<ul>
 					<li>Fotocopia de la cedula de ciudadanía (diligenciar correctamente los nombres, evitando así escribir datos errados).</li>
@@ -219,4 +220,10 @@
 <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
 <script type="text/javascript" src="js/script_listado.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.efecto').animate({'opacity':'1'},500).addClass('deslizar');
+	    $('.efecto').addClass('come-in');
+   	});
+</script>
 </html>
