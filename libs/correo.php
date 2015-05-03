@@ -18,7 +18,7 @@ switch ($opc) {
 
 			$asunto = "Mensaje desde Solicitudes-andapref.com";
 		 	$cabeceras = "From: $usuario - $asunto";
-			$email_to = "info@inmobiliariaandapref.com";
+			$email_to = "contacto@inmobiliariaandapref.com";
 			$contenido = "Nueva Solitidud: \n"
 			. "\n"
 			. "$tema \n"
@@ -46,7 +46,7 @@ switch ($opc) {
 
 			$asunto = "Mensaje desde Solicitudes-andapref.com";
 		 	$cabeceras = "From: $usuario - $asunto";
-			$email_to = "info@inmobiliariaandapref.com";
+			$email_to = "contacto@inmobiliariaandapref.com";
 			$contenido = "Nueva Solitidud: \n"
 			. "\n"
 			. "$tema \n"
@@ -69,7 +69,7 @@ switch ($opc) {
 
 			$asunto = "Mensaje desde Contáctenos-andapref.com";
 		 	$cabeceras = "From: $nombre - $asunto";
-			$email_to = "info@inmobiliariaandapref.com";
+			$email_to = "contacto@inmobiliariaandapref.com";
 			$contenido = "Nuevo Mensaje: \n"
 			. "\n"
 			. "$tema \n"
