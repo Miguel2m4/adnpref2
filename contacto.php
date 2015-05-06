@@ -27,8 +27,8 @@ function Localizar()
 function mapa(pos)
 {
 	var contenedor =document.getElementById("mapa2");
-	var latitud = pos.coords.latitude;
-	var Longitud = pos.coords.longitude;
+	var latitud = '4.133117';
+	var Longitud = '-73.634750';
 	var centro = new google.maps.LatLng(latitud,Longitud);
 	var propiedades = 	{
 
@@ -123,7 +123,7 @@ function error(errorC)
 				<a href="requisistos-arrendar-inmueble">Requisitos para tomar un inmueble en Arriendo</a>
 			</li>
 			<li>
-				<a href="arrenda" target="blank">Consulte su Factura</a>
+				<a href="arrenda" target="blank">Comprobante de pago</a>
 			</li>
 		</ul>
 	</li>

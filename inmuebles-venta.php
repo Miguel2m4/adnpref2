@@ -196,7 +196,7 @@ while($row = mysql_fetch_array($bus, MYSQLI_ASSOC)){
 				<a href="requisistos-arrendar-inmueble">Requisitos para tomar un inmueble en Arriendo</a>
 			</li>
 			<li>
-				<a href="arrenda" target="blank">Consulte su Factura</a>
+				<a href="arrenda" target="blank">Comprobante de pago</a>
 			</li>
 		</ul>
 	</li>
