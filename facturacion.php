@@ -156,7 +156,7 @@ else
 </div>
 </nav>
 <section id="listart">
-<h2>Facturación</h2>
+<h2>Comprobantes de Pago</h2>
 <div id="busq1">
 <div id="busquedas">
 	<form id="filtro1" method="get" action="facturacion">
@@ -172,7 +172,7 @@ else
 </div>
 </div>
 <div id="busq2">
-<h2>Generar facturación</h2>
+<h2>Generar Comprobantes</h2>
 <form id="generar">
 		<!-- <p>Seleccione carpeta</p> -->
 		<label>Periodo:
@@ -188,7 +188,7 @@ else
 			<td>Id Arrendatario</td>
 			<td>Periodo Inicial</td>
 			<td>Periodo Final</td>
-			<td>Factura</td>
+			<td>Comprobantes</td>
 			<td>Editar</td>
 		</tr>
 	</thead>
