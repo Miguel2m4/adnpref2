@@ -123,7 +123,7 @@ function error(errorC)
 				<a href="requisistos-arrendar-inmueble">Requisitos para tomar un inmueble en Arriendo</a>
 			</li>
 			<li>
-				<a href="arrenda" target="blank">Comprobante de pago</a>
+				<a href="arrenda" target="blank">Consultar comprobante de pago</a>
 			</li>
 		</ul>
 	</li>
