@@ -68,7 +68,7 @@ else
 </div>
 </nav>
 <section id="listart2">
-<h2>Editar Factura</h2>
+<h2>Editar Comprobante de Pago</h2>
 <?php
 	include("libs/conexion.php");
 
