@@ -131,8 +131,8 @@ require_once('tcpdf.php');
                           <tr>
                             <td><b>FECHA LIMITE DE PAGO</b></td>
                             <td></td>
-                            <td align="right">'.$ford.'</td>
-                            <td align="right">'.$fextr.'</td>
+                            <td align="right">'.implode("-", array_reverse(explode("-", $ford))).'</td>
+                            <td align="right">'.implode("-", array_reverse(explode("-", $fextr))).'</td>
                           </tr>
                           <tr>
                             <td></td>
