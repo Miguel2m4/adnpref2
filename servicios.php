@@ -86,7 +86,7 @@
 <section class="contenido3">
 
 	<div id="deta-lado-izq">
-	<h2>Administración</h2>
+	<h2 id="adm">Administración</h2>
 
 				<hr class="divi1">
 				<div class="recorte efecto"><img src="images/estadis.png"></div>
@@ -109,7 +109,7 @@
 				<p>Mercadeo de proyectos programa de ventas eficaz.</p>
 				</div>
 
-	<h2>Avalúos</h2>
+	<h2 id="aval">Avalúos</h2>
 
 				<hr class="divi1">
 				<div class="recorte efecto1"><img src="images/arriendo6.png"></div>
@@ -125,14 +125,14 @@
 
 				</div>
 
-	<h2>Asesoría inmobiliaria</h2>
+	<h2 id="ases">Asesoría inmobiliaria</h2>
 
 				<hr class="divi1">
 				<div class="descripcion-detalle">
 				<p>Presentación de arrendatarios, cediendo solicitud debidamente aprobado estudio de documentación de arrendatario junto con inventario y contrato de arrendamiento entre propietario y arrendatario.</p>
 				</div>
 
-	<h2>Construcciones</h2>
+	<h2 id="const">Construcciones</h2>
 				<hr class="divi1">
 				<div class="recorte efecto1"><img src="images/arriendo7.png"></div>
 				<div class="descripcion-detalle">
@@ -242,7 +242,6 @@
 	<h2>Con el respaldo de:</h2>
 	<img src="images/seguros_bolivar.png">
 	<img src="images/libertador.png">
-	<img src="images/fisa.png">
 
 </div>
 	<hr class="divi1">
