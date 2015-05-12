@@ -311,6 +311,10 @@ footer
 	width: 22px !important;
   	margin-top: -10px;
 }
+select option
+{
+	text-transform:uppercase;
+}
 .footersec p
 {
 	color: #fff;
@@ -1362,7 +1366,7 @@ header #top-lado2
 {
 	margin: -200px 0px 0px 32px;
 	position: absolute;
-	z-index:1;
+	z-index: 1;
 }
 #fondo-imagen #selecc h2
 {
@@ -1401,4 +1405,3 @@ header #top-lado2
 
 	}
 }
-
