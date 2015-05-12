@@ -28,7 +28,7 @@ else
 <a class="toggleMenu" href="#">Menu</a>
 <ul class="nav">
 	<li  class="test">
-		<a href="arrendatario">Facturación</a>
+		<a href="arrendatario">Est de Pago</a>
 	</li>
 	<li>
 		<a href="solicitud-arrendatario">Solicitudes</a>
@@ -40,7 +40,7 @@ else
 </div>
 </nav>
 <section id="listart">
-<h2>Facturación</h2>
+<h2>Estados de Pago</h2>
 <div id="busq1">
 <div id="busquedas">
 

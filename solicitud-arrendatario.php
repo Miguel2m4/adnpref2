@@ -30,7 +30,7 @@ else
 <a class="toggleMenu" href="#">Menu</a>
 <ul class="nav">
 	<li  class="test">
-		<a href="arrendatario">Facturación</a>
+		<a href="arrendatario">Est de Pago</a>
 	</li>
 	<li>
 		<a href="solicitud-arrendatario">Solicitudes</a>
@@ -48,9 +48,11 @@ else
 			<h2>Solicitudes</h2>
 			<div class="contacto">
 				<form id="solicitud">
-					<input type="number" placeholder="Telefono" name="telefono">
-					<input type="text" placeholder="Asunto" name="asunto">
+					<input type="number" placeholder="Telefono" name="telefono" required>
+					<input type="text" placeholder="Asunto" name="asunto" required>
 					<textarea placeholder="Escribe tu mensaje*" required name="mensaje"></textarea>
+					<input type="file" id="archivo"/><br><br>
+					<input type="hidden" id="tipo" value="solicitud"/>
 					<input type="submit" value="Enviar Solicitud">
 				</form>
 			</div>
@@ -94,37 +96,5 @@ else
 </body>
 <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/script-menu.js"></script>
-<script type="text/javascript">
-	$('#solicitud').on('submit',function(e){
-    	e.preventDefault();
-    	$('#fondo').remove();
-		$('body').append("<div class='fondo' id='fondo' style='display:none;'></div>");
-		$('#fondo').append("<div style='position: absolute;top: 50%;left: 50%;'><img src='images/esperar.gif'></div>");
-		setTimeout(function() {
-        	$('#fondo').fadeIn('fast',function(){
-            $('#rp').fadeIn();
-         	});
-        }, 400);
-        data = $(this).serializeArray();
-       	data.push({name:'opc',value:'solicitud'});
-        $.post('libs/correo.php',data).done(function(data){
-        	if(data=='correcto')
-        	{
-        		$('#fondo').remove();
-				$('body').append("<div class='fondo' id='fondo' style='display:none;'></div>");
-				$('#fondo').append("<div class='rp' style='display: none; text-align: center' id='rp'><span>Solicitud enviada!</span></div>");
-				setTimeout(function() {
-		        	$('#fondo').fadeIn('fast',function(){
-		            $('#rp').animate({'top':'350px'},50).fadeIn();
-		         	});
-		        }, 400);
-		        setTimeout(function() {
-		            $("#rp").fadeOut();
-		            $('#fondo').fadeOut('fast');
-		        }, 2500);
-		        $('input,textarea').not('input[type=submit]').val('');
-        	}
-        })
-    })
-</script>
+<script type="text/javascript" src="js/script_correo.js"></script>
 </html>

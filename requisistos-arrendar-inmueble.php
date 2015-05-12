@@ -237,6 +237,7 @@
 	<h2>Con el respaldo de:</h2>
 	<img src="images/seguros_bolivar.png">
 	<img src="images/libertador.png">
+	<img src="images/fisa.png">
 
 </div>
 	<hr class="divi1">
